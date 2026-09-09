@@ -1,2 +1,0 @@
-# dystopia-bot
-/dystopia
